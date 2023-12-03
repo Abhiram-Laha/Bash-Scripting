@@ -1,0 +1,15 @@
+Pattern
+Series
+Array(find Max min element, sum of elements, sort elements)
+
+Compare to 2 no., 3 no.
+Triangle types
+Leap year
+Factorial
+Fibonacci
+Prime(in range)
+Odd even(in range)
+Palindrome( of string/number)
+Armstrong
+Calculator (switch case)
+Max min element
